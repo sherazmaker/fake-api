@@ -1,0 +1,9 @@
+
+                
+Keystring               uk855u6gacrhwkoc6e4f8lxr
+Shared secret           0sf4vhpv2e
+
+State: tnl2s
+Code challenge: Fh5b6Ii8_gpLHClBCwMl50RxogT8tmu7yAbhyhpgzzo
+Code verifier: 78_uA7q-B2BQrXl4XEALz_am1wTN6U5C5HKZzVTA030
+https://www.etsy.com/oauth/connect?response_type=code&redirect_uri=https://1c7f-205-164-155-16.ngrok.io/callback&scope=email_r&client_id=uk855u6gacrhwkoc6e4f8lxr&state=tnl2s&code_challenge=Fh5b6Ii8_gpLHClBCwMl50RxogT8tmu7yAbhyhpgzzo&code_challenge_method=S256
